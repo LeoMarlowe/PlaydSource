@@ -6,7 +6,7 @@ This is an AltStore source for the Played game tracker app.
 
 1. Copy this URL:
    ```
-   https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/apps.json
+   https://raw.githubusercontent.com/LeoMarlowe/PlayedSource/main/apps.json
    ```
 
 2. Open **AltStore** on your iPhone
@@ -26,7 +26,7 @@ This is an AltStore source for the Played game tracker app.
 1. Download the IPA from Codemagic
 
 2. Upload to GitHub Releases:
-   - Go to https://github.com/Arasaka1/PlayedSource/releases
+   - Go to https://github.com/LeoMarlowe/PlayedSource/releases
    - Create new release with tag `v1.4.x`
    - Upload the IPA file
 
