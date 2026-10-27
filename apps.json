@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.0.2",
+          "date": "2026-10-27",
+          "localizedDescription": "release: 3.0.2 (29) - PC assistant launching and verified links",
+          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.0.2/Playd.ipa",
+          "size": 2357336
+        },
+        {
           "version": "3.0.0",
           "date": "2026-10-26",
           "localizedDescription": "release: 3.0.0 (27) - review-first generic CSV importer",
@@ -127,56 +134,56 @@
         {
           "version": "2.0.7",
           "date": "2026-01-03",
-          "localizedDescription": "\ud83d\udd04 Offline Sync Fix\\n\\n\u2022 Games played while app is offline now properly added to Playing\\n\u2022 Playtime minutes are now tracked and accumulated\\n\u2022 Fixed mid-game detection when opening app\\n\u2022 All game statuses properly handled",
+          "localizedDescription": "🔄 Offline Sync Fix\\n\\n• Games played while app is offline now properly added to Playing\\n• Playtime minutes are now tracked and accumulated\\n• Fixed mid-game detection when opening app\\n• All game statuses properly handled",
           "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.7/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.6",
           "date": "2026-01-03",
-          "localizedDescription": "\ud83d\udd14 Custom Notifications (iOS)\\n\\n\u2022 Added support for Bark notifications\\n\u2022 Game covers now appear in notifications!\\n\u2022 Minor stability improvements",
+          "localizedDescription": "🔔 Custom Notifications (iOS)\\n\\n• Added support for Bark notifications\\n• Game covers now appear in notifications!\\n• Minor stability improvements",
           "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.6/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.5",
           "date": "2026-01-01",
-          "localizedDescription": "\ud83d\udd27 Bug Fixes\\n\\n\u2022 Fixed Alan Wake II crack status detection (Roman numerals now properly converted)\\n\u2022 Reverted hero animation that caused image display issues\\n\u2022 Improved PreDB search matching for games with sequel numbers",
+          "localizedDescription": "🔧 Bug Fixes\\n\\n• Fixed Alan Wake II crack status detection (Roman numerals now properly converted)\\n• Reverted hero animation that caused image display issues\\n• Improved PreDB search matching for games with sequel numbers",
           "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.5/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.4",
           "date": "2026-01-01",
-          "localizedDescription": "\ud83d\udd27 Bug Fixes\\n\\n\u2022 Fixed inaccurate list counts (stale UUIDs cleaned up)\\n\u2022 Tracked games now properly deleted when removed from all lists\\n\u2022 Screenshot gallery now has smooth hero zoom animation\\n\u2022 Various stability improvements",
+          "localizedDescription": "🔧 Bug Fixes\\n\\n• Fixed inaccurate list counts (stale UUIDs cleaned up)\\n• Tracked games now properly deleted when removed from all lists\\n• Screenshot gallery now has smooth hero zoom animation\\n• Various stability improvements",
           "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.4/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.3",
           "date": "2025-12-31",
-          "localizedDescription": "\ud83d\udd35 Circular Liquid Glass Buttons\\n\\n\u2022 Fixed buttons to be circular (not capsule)\\n\u2022 Blue checkmark tint restored\\n\u2022 Proper .buttonBorderShape(.circle) + .tint(.blue)\\n\u2022 Springy animations preserved",
+          "localizedDescription": "🔵 Circular Liquid Glass Buttons\\n\\n• Fixed buttons to be circular (not capsule)\\n• Blue checkmark tint restored\\n• Proper .buttonBorderShape(.circle) + .tint(.blue)\\n• Springy animations preserved",
           "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.3/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.2",
           "date": "2025-12-31",
-          "localizedDescription": "\u2728 Liquid Glass Polish\\n\\n\u2022 All buttons now use proper iOS 26 GlassButtonStyle\\n\u2022 Springy bounce animations on all close/confirm buttons\\n\u2022 Consistent liquid glass look across the entire app",
+          "localizedDescription": "✨ Liquid Glass Polish\\n\\n• All buttons now use proper iOS 26 GlassButtonStyle\\n• Springy bounce animations on all close/confirm buttons\\n• Consistent liquid glass look across the entire app",
           "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.2/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.1",
           "date": "2025-12-31",
-          "localizedDescription": "\ud83d\udd27 Bug Fixes & Polish\\n\\n\u2022 Fixed AI Chat not using Foundation Models (was using fallback)\\n\u2022 AI Chat now properly uses smartChat with conversation memory\\n\u2022 Fixed Tool protocol conformance for Swift 6\\n\u2022 Fixed AppIntents parameter types for Siri shortcuts\\n\u2022 Unified close button style across all views\\n\u2022 Minor UI improvements",
+          "localizedDescription": "🔧 Bug Fixes & Polish\\n\\n• Fixed AI Chat not using Foundation Models (was using fallback)\\n• AI Chat now properly uses smartChat with conversation memory\\n• Fixed Tool protocol conformance for Swift 6\\n• Fixed AppIntents parameter types for Siri shortcuts\\n• Unified close button style across all views\\n• Minor UI improvements",
           "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.1/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.0",
           "date": "2025-12-31",
-          "localizedDescription": "\ud83e\udd16 Massive AI Upgrade (iOS 26)\\n\\n\u2022 Smart AI Chat with conversation memory\\n\u2022 Tool calling - AI can access library data\\n\u2022 Streaming responses with typing animation\\n\u2022 AI-powered game recommendations\\n\u2022 Creative smart list generation\\n\u2022 Siri shortcuts: 'What should I play?'\\n\\n\u2728 Also includes:\\n\u2022 Liquid Glass UI updates\\n\u2022 Swift 6 strict concurrency\\n\u2022 Improved error handling",
+          "localizedDescription": "🤖 Massive AI Upgrade (iOS 26)\\n\\n• Smart AI Chat with conversation memory\\n• Tool calling - AI can access library data\\n• Streaming responses with typing animation\\n• AI-powered game recommendations\\n• Creative smart list generation\\n• Siri shortcuts: 'What should I play?'\\n\\n✨ Also includes:\\n• Liquid Glass UI updates\\n• Swift 6 strict concurrency\\n• Improved error handling",
           "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.0/Played.ipa",
           "size": 1000000
         }
