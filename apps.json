@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.2.0",
+          "date": "2026-10-28",
+          "localizedDescription": "release: 3.2.0 (32) - cloud library sync",
+          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.2.0/Playd.ipa",
+          "size": 2838252
+        },
+        {
           "version": "3.0.2",
           "date": "2026-10-27",
           "localizedDescription": "release: 3.0.2 (29) - PC assistant launching and verified links",
