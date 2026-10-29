@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.3.5",
+          "date": "2026-10-29",
+          "localizedDescription": "release: 3.3.5 (40) - rounded shell corner, even tab padding, and remote input",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.3.5/Playd.ipa",
+          "size": 2998951
+        },
+        {
           "version": "3.3.4",
           "date": "2026-10-29",
           "localizedDescription": "release: 3.3.4 (39) - desktop catalog, quieter iPhone sync, and remote input",
