@@ -8,17 +8,24 @@
       "bundleIdentifier": "com.played.app",
       "developerName": "Arasaka",
       "subtitle": "Track your gaming journey",
-      "localizedDescription": "Playd is your personal game tracker. Add games from RAWG, track what you're playing, manage your backlog, and sync with Google Drive.",
+      "localizedDescription": "Playd is your personal game tracker. Add games from RAWG, track what you're playing, manage your backlog, and sync your library with Playd Cloud.",
       "iconURL": "https://raw.githubusercontent.com/LeoMarlowe/PlayedSource/main/icon.png",
       "tintColor": "#6366F1",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "Playd uses the local network to discover and connect with PlayedSync on your PC to track gaming sessions.",
+          "NSLocalNetworkUsageDescription": "Playd finds your PC on the local network to sync your library, lists, notes, and playtime, and, when you turn on PC Remote, to control that PC.",
           "NSCameraUsageDescription": "Playd may use the camera for future features."
         }
       },
       "versions": [
+        {
+          "version": "3.3.0",
+          "date": "2026-10-29",
+          "localizedDescription": "release: 3.3.0 (35) - Playd Cloud sync and PC remote",
+          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.3.0/Playd.ipa",
+          "size": 2935501
+        },
         {
           "version": "3.2.1",
           "date": "2026-10-29",
