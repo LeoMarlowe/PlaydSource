@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.3.4",
+          "date": "2026-10-29",
+          "localizedDescription": "release: 3.3.4 (39) - desktop catalog, quieter iPhone sync, and remote input",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.3.4/Playd.ipa",
+          "size": 2991229
+        },
+        {
           "version": "3.3.3",
           "date": "2026-10-29",
           "localizedDescription": "release: 3.3.3 (38) - rounded shell, quieter Settings, and install links",
