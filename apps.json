@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.3.1",
+          "date": "2026-10-29",
+          "localizedDescription": "release: 3.3.1 (36) - one screen at a time and smoother PC remote",
+          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.3.1/Playd.ipa",
+          "size": 2943030
+        },
+        {
           "version": "3.3.0",
           "date": "2026-10-29",
           "localizedDescription": "release: 3.3.0 (35) - Playd Cloud sync and PC remote",
