@@ -28,7 +28,7 @@ This is an AltStore source for the Played game tracker app.
 2. Upload to GitHub Releases:
    - Go to https://github.com/LeoMarlowe/PlayedSource/releases
    - Create new release with tag `v1.4.x`
-   - Upload the IPA file
+   - Upload `Playd.ipa` and `Playd.exe` on that same release, plus `Playd-<version>.sha256` for the exe
 
 3. Update `apps.json`:
    - Update `version` and `buildVersion`
