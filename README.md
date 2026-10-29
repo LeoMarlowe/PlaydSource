@@ -1,23 +1,23 @@
-# Played AltStore Source
+# Playd SideStore Source
 
-This is an AltStore source for the Played game tracker app.
+This is a SideStore source for the Playd game tracker app.
 
-## Add This Source to AltStore
+## Add This Source to SideStore
 
 1. Copy this URL:
    ```
-   https://raw.githubusercontent.com/LeoMarlowe/PlayedSource/main/apps.json
+   https://raw.githubusercontent.com/LeoMarlowe/PlaydSource/main/apps.json
    ```
 
-2. Open **AltStore** on your iPhone
+2. Open **SideStore** on your iPhone
 
 3. Go to **Browse** tab → **Sources** (top left)
 
 4. Tap **+** and paste the URL
 
-5. The "Played Apps" source will appear
+5. The "Playd Apps" source will appear
 
-6. Find **Played** and tap **Get**
+6. Find **Playd** and tap **Get**
 
 ## For Developers: How to Update
 
@@ -26,7 +26,7 @@ This is an AltStore source for the Played game tracker app.
 1. Download the IPA from Codemagic
 
 2. Upload to GitHub Releases:
-   - Go to https://github.com/LeoMarlowe/PlayedSource/releases
+   - Go to https://github.com/LeoMarlowe/PlaydSource/releases
    - Create new release with tag `v1.4.x`
    - Upload `Playd.ipa` and `Playd.exe` on that same release, plus `Playd-<version>.sha256` for the exe
 

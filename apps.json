@@ -1,7 +1,7 @@
 {
   "name": "Playd Apps",
   "identifier": "com.played.source",
-  "sourceURL": "https://raw.githubusercontent.com/LeoMarlowe/PlayedSource/main/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/LeoMarlowe/PlaydSource/main/apps.json",
   "apps": [
     {
       "name": "Playd",
@@ -9,7 +9,7 @@
       "developerName": "Arasaka",
       "subtitle": "Track your gaming journey",
       "localizedDescription": "Playd is your personal game tracker. Add games from RAWG, track what you're playing, manage your backlog, and sync your library with Playd Cloud.",
-      "iconURL": "https://raw.githubusercontent.com/LeoMarlowe/PlayedSource/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/LeoMarlowe/PlaydSource/main/icon.png",
       "tintColor": "#6366F1",
       "appPermissions": {
         "entitlements": [],
@@ -23,139 +23,139 @@
           "version": "3.3.1",
           "date": "2026-10-29",
           "localizedDescription": "release: 3.3.1 (36) - one screen at a time and smoother PC remote",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.3.1/Playd.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.3.1/Playd.ipa",
           "size": 2943030
         },
         {
           "version": "3.3.0",
           "date": "2026-10-29",
           "localizedDescription": "release: 3.3.0 (35) - Playd Cloud sync and PC remote",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.3.0/Playd.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.3.0/Playd.ipa",
           "size": 2935501
         },
         {
           "version": "3.2.1",
           "date": "2026-10-29",
           "localizedDescription": "release: 3.2.1 (33) - fix account creation and Google sign-in",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.2.1/Playd.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.2.1/Playd.ipa",
           "size": 2838835
         },
         {
           "version": "3.2.0",
           "date": "2026-10-28",
           "localizedDescription": "release: 3.2.0 (32) - cloud library sync",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.2.0/Playd.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.2.0/Playd.ipa",
           "size": 2838252
         },
         {
           "version": "3.0.2",
           "date": "2026-10-27",
           "localizedDescription": "release: 3.0.2 (29) - PC assistant launching and verified links",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.0.2/Playd.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.0.2/Playd.ipa",
           "size": 2357336
         },
         {
           "version": "3.0.0",
           "date": "2026-10-26",
           "localizedDescription": "release: 3.0.0 (27) - review-first generic CSV importer",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v3.0.0/Playd.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.0.0/Playd.ipa",
           "size": 2318398
         },
         {
           "version": "2.9.1",
           "date": "2026-10-24",
           "localizedDescription": "release: 2.9.1 (26) - fullscreen images + automatic library sync",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.9.1/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.9.1/Played.ipa",
           "size": 2130546
         },
         {
           "version": "2.9.0",
           "date": "2026-10-22",
           "localizedDescription": "release: 2.9.0 (25) - Playd rename + Backlog header",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.9.0/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.9.0/Played.ipa",
           "size": 2028641
         },
         {
           "version": "2.8.1",
           "date": "2026-10-21",
           "localizedDescription": "chore(release): bump version to 2.8.1 (24)",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.8.1/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.8.1/Played.ipa",
           "size": 2024619
         },
         {
           "version": "2.8.0",
           "date": "2026-10-21",
           "localizedDescription": "chore(release): bump version to 2.8.0 (23)",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.8.0/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.8.0/Played.ipa",
           "size": 2025506
         },
         {
           "version": "2.7.0",
           "date": "2026-10-18",
           "localizedDescription": "release: 2.7.0 (21) - AI assistant overhaul (context-window fix, full-library tool snapshot, 5 new tools, inline Siri-style confirmation card) + HLTB dead-direct-source removal (mirror primary, RAWG labeled fallback) + RAWG audit set (TTL cache, single-flight, forceRefresh, id stamping, cover-repair negative cache)",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.7.0/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.7.0/Played.ipa",
           "size": 1976554
         },
         {
           "version": "2.6.6",
           "date": "2026-10-18",
           "localizedDescription": "release: 2.6.6 (20) - version bump over the crash-pack fix set (canonical V3 registration, BGTask delivery, CSV/sanitizer/Drive fixes); no code changes vs build 19",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.6.6/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.6.6/Played.ipa",
           "size": 1962960
         },
         {
           "version": "2.6.5",
           "date": "2026-10-17",
           "localizedDescription": "2.6.5 (18): version bump - marketing 2.6.5, build 18 (all four configs + Settings fallback string)",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.6.5/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.6.5/Played.ipa",
           "size": 1973041
         },
         {
           "version": "2.6.4",
           "date": "2026-10-17",
           "localizedDescription": "release: Version 2.6.4 (build 15)",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.6.4/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.6.4/Played.ipa",
           "size": 1970373
         },
         {
           "version": "2.6.3",
           "date": "2026-10-17",
           "localizedDescription": "release: Version 2.6.3 (build 13) - join-row rebuild sanitizer phase",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.6.3/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.6.3/Played.ipa",
           "size": 1957765
         },
         {
           "version": "2.6.2",
           "date": "2026-10-17",
           "localizedDescription": "release: Version 2.6.2 (build 11) - crash forensics, AI state hooks + BYOK model picker, HLTB 3-source chain, discover/status/posters fixes",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.6.2/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.6.2/Played.ipa",
           "size": 1947759
         },
         {
           "version": "2.6.1",
           "date": "2026-10-17",
           "localizedDescription": "fix: restore dedupes the graph first (dSYM-pinned crash site)",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.6.1/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.6.1/Played.ipa",
           "size": 1792189
         },
         {
           "version": "2.6.0",
           "date": "2026-10-17",
           "localizedDescription": "migrated from igdb to RAWG",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.6.0/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.6.0/Played.ipa",
           "size": 1789605
         },
         {
           "version": "2.5.0",
           "date": "2026-10-16",
           "localizedDescription": "major bug fixes and AI overhaul",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.5.0/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.5.0/Played.ipa",
           "size": 1803067
         },
         {
           "version": "2.1.0",
           "date": "2026-10-16",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.1.0/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.1.0/Played.ipa",
           "size": 1803062,
           "localizedDescription": "major bug fixes and AI overhaul"
         },
@@ -163,56 +163,56 @@
           "version": "2.0.7",
           "date": "2026-01-03",
           "localizedDescription": "\ud83d\udd04 Offline Sync Fix\\n\\n\u2022 Games played while app is offline now properly added to Playing\\n\u2022 Playtime minutes are now tracked and accumulated\\n\u2022 Fixed mid-game detection when opening app\\n\u2022 All game statuses properly handled",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.7/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.0.7/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.6",
           "date": "2026-01-03",
           "localizedDescription": "\ud83d\udd14 Custom Notifications (iOS)\\n\\n\u2022 Added support for Bark notifications\\n\u2022 Game covers now appear in notifications!\\n\u2022 Minor stability improvements",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.6/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.0.6/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.5",
           "date": "2026-01-01",
           "localizedDescription": "\ud83d\udd27 Bug Fixes\\n\\n\u2022 Fixed Alan Wake II crack status detection (Roman numerals now properly converted)\\n\u2022 Reverted hero animation that caused image display issues\\n\u2022 Improved PreDB search matching for games with sequel numbers",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.5/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.0.5/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.4",
           "date": "2026-01-01",
           "localizedDescription": "\ud83d\udd27 Bug Fixes\\n\\n\u2022 Fixed inaccurate list counts (stale UUIDs cleaned up)\\n\u2022 Tracked games now properly deleted when removed from all lists\\n\u2022 Screenshot gallery now has smooth hero zoom animation\\n\u2022 Various stability improvements",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.4/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.0.4/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.3",
           "date": "2025-12-31",
           "localizedDescription": "\ud83d\udd35 Circular Liquid Glass Buttons\\n\\n\u2022 Fixed buttons to be circular (not capsule)\\n\u2022 Blue checkmark tint restored\\n\u2022 Proper .buttonBorderShape(.circle) + .tint(.blue)\\n\u2022 Springy animations preserved",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.3/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.0.3/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.2",
           "date": "2025-12-31",
           "localizedDescription": "\u2728 Liquid Glass Polish\\n\\n\u2022 All buttons now use proper iOS 26 GlassButtonStyle\\n\u2022 Springy bounce animations on all close/confirm buttons\\n\u2022 Consistent liquid glass look across the entire app",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.2/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.0.2/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.1",
           "date": "2025-12-31",
           "localizedDescription": "\ud83d\udd27 Bug Fixes & Polish\\n\\n\u2022 Fixed AI Chat not using Foundation Models (was using fallback)\\n\u2022 AI Chat now properly uses smartChat with conversation memory\\n\u2022 Fixed Tool protocol conformance for Swift 6\\n\u2022 Fixed AppIntents parameter types for Siri shortcuts\\n\u2022 Unified close button style across all views\\n\u2022 Minor UI improvements",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.1/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.0.1/Played.ipa",
           "size": 1000000
         },
         {
           "version": "2.0.0",
           "date": "2025-12-31",
           "localizedDescription": "\ud83e\udd16 Massive AI Upgrade (iOS 26)\\n\\n\u2022 Smart AI Chat with conversation memory\\n\u2022 Tool calling - AI can access library data\\n\u2022 Streaming responses with typing animation\\n\u2022 AI-powered game recommendations\\n\u2022 Creative smart list generation\\n\u2022 Siri shortcuts: 'What should I play?'\\n\\n\u2728 Also includes:\\n\u2022 Liquid Glass UI updates\\n\u2022 Swift 6 strict concurrency\\n\u2022 Improved error handling",
-          "downloadURL": "https://github.com/LeoMarlowe/PlayedSource/releases/download/v2.0.0/Played.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v2.0.0/Played.ipa",
           "size": 1000000
         }
       ]
