@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.3.3",
+          "date": "2026-10-29",
+          "localizedDescription": "release: 3.3.3 (38) - rounded shell, quieter Settings, and install links",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.3.3/Playd.ipa",
+          "size": 2964759
+        },
+        {
           "version": "3.3.2",
           "date": "2026-10-29",
           "localizedDescription": "release: 3.3.2 (37) - catalog proxy, quieter cloud sync, and Steam reviews",
