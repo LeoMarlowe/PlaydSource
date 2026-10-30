@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.4.0",
+          "date": "2026-10-30",
+          "localizedDescription": "Portable Windows updater repair, reliable library and playtime sync, remote command recovery, iPad backup sharing, and desktop responsiveness.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.4.0/Playd.ipa",
+          "size": 2987581
+        },
+        {
           "version": "3.3.6",
           "date": "2026-10-30",
           "localizedDescription": "release: 3.3.6 (41) - even grids, wake on LAN, and cloud playtime",
