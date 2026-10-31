@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.4.1",
+          "date": "2026-10-31",
+          "localizedDescription": "Live away-from-home PC remote, a rating control that saves as you move it, scheduled hibernate that still happens if you close Playd, and faster library screens.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.4.1/Playd.ipa",
+          "size": 8905409
+        },
+        {
           "version": "3.4.0",
           "date": "2026-10-30",
           "localizedDescription": "Portable Windows updater repair, reliable library and playtime sync, remote command recovery, iPad backup sharing, and desktop responsiveness.",
