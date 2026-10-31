@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.4.3",
+          "date": "2026-10-31",
+          "localizedDescription": "Redesigned rating controls with thicker tracks, cleaner markers, 0.1 steps, and automatic saving. Windows screenshots stay stable while rating. Safer Playd Cloud upgrades and pending LAN sync recovery. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.4.3/Playd.ipa",
+          "size": 8947955
+        },
+        {
           "version": "3.4.2",
           "date": "2026-10-31",
           "localizedDescription": "Zoom and pan directly on the PC monitor image. Zooming requests sharper frames, up to 4K, with improved text detail and live preview delivery. Update the Windows companion too.",
