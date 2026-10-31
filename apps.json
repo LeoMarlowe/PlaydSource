@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.4.4",
+          "date": "2026-11-01",
+          "localizedDescription": "Safer backup restores and playtime recovery, corrected CSV import and undo, and more reliable remote controls. Faster large libraries and assistant preparation. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.4.4/Playd.ipa",
+          "size": 8983478
+        },
+        {
           "version": "3.4.3",
           "date": "2026-10-31",
           "localizedDescription": "Redesigned rating controls with thicker tracks, cleaner markers, 0.1 steps, and automatic saving. Windows screenshots stay stable while rating. Safer Playd Cloud upgrades and pending LAN sync recovery. Update the Windows companion too.",
