@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.4.5",
+          "date": "2026-11-01",
+          "localizedDescription": "Watch another PC live from the iPhone or a second Windows copy on the same account. The pointer follows your movement, and remote pictures are no longer stored in the cloud. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.4.5/Playd.ipa",
+          "size": 9014198
+        },
+        {
           "version": "3.4.4",
           "date": "2026-11-01",
           "localizedDescription": "Safer backup restores and playtime recovery, corrected CSV import and undo, and more reliable remote controls. Faster large libraries and assistant preparation. Update the Windows companion too.",
