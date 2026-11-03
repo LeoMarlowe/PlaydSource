@@ -8,7 +8,7 @@
       "bundleIdentifier": "com.played.app",
       "developerName": "Arasaka",
       "subtitle": "Track your gaming journey",
-      "localizedDescription": "Playd is your personal game tracker. Add games from RAWG, track what you're playing, manage your backlog, and sync your library with Playd Cloud.",
+      "localizedDescription": "Playd is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync your library with Playd Cloud.",
       "iconURL": "https://raw.githubusercontent.com/LeoMarlowe/PlaydSource/main/icon.png",
       "tintColor": "#6366F1",
       "appPermissions": {
@@ -19,6 +19,13 @@
         }
       },
       "versions": [
+        {
+          "version": "3.4.7",
+          "date": "2026-11-03",
+          "localizedDescription": "Discover, game search, game details, screenshots, and store links now run on IGDB with Steam Metascore enrichment, replacing RAWG. Existing library items keep their history, playtime, ratings, and lists. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.4.7/Playd.ipa",
+          "size": 9095931
+        },
         {
           "version": "3.4.5",
           "date": "2026-11-01",
