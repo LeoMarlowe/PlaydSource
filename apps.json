@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.5.1",
+          "date": "2026-11-04",
+          "localizedDescription": "Universal Clipboard shares a copy between iPhone and Playd on Windows until you copy something else. Play launches the game instead of a checksum tool or DirectX setup, on-screen playtime is in minutes, and saved artwork stays put. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.5.1/Playd.ipa",
+          "size": 9141570
+        },
+        {
           "version": "3.5.0",
           "date": "2026-11-03",
           "localizedDescription": "Game detail sheets now fill the top banner edge-to-edge and dismiss by swiping down, Discover covers trim framed borders cleanly with rounded corners, and PC Remote connects faster with reliable signaling retries. Update the Windows companion too.",
