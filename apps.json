@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.5.0",
+          "date": "2026-11-03",
+          "localizedDescription": "Game detail sheets now fill the top banner edge-to-edge and dismiss by swiping down, Discover covers trim framed borders cleanly with rounded corners, and PC Remote connects faster with reliable signaling retries. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.5.0/Playd.ipa",
+          "size": 9109317
+        },
+        {
           "version": "3.4.8",
           "date": "2026-11-03",
           "localizedDescription": "Game details now show Metacritic scores by platform and improved artwork. This update also improves cloud sync, saved-game matching, and PC Remote reliability. Update the Windows companion too.",
