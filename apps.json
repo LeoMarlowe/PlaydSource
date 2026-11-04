@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.5.5",
+          "buildVersion": "55",
+          "date": "2026-11-04",
+          "localizedDescription": "Rating bars change color smoothly as the score rises. An 11/10 rating gets a gold finish with a moving highlight, soft glow and small glints. Windows adds quiet rating clicks and a separate sound toggle. Respects motion settings on both platforms. This release updates iPhone and Windows.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.5.5/Playd.ipa",
+          "size": 9171212
+        },
+        {
           "version": "3.5.4",
           "buildVersion": "54",
           "date": "2026-11-04",
