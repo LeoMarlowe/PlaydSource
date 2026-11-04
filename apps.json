@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "3.5.2",
+          "date": "2026-11-04",
+          "localizedDescription": "Hiding Playd on Windows releases the decoded covers, so the tray uses much less memory. The account clipboard is read only when you Copy or Paste, including from Control Center. Edition titles such as Redux and Next-Gen match the base game, and the hero and banner open from the art. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.5.2/Playd.ipa",
+          "size": 9147692
+        },
+        {
           "version": "3.5.1",
           "date": "2026-11-04",
           "localizedDescription": "Universal Clipboard shares a copy between iPhone and Playd on Windows until you copy something else. Play launches the game instead of a checksum tool or DirectX setup, on-screen playtime is in minutes, and saved artwork stays put. Update the Windows companion too.",
