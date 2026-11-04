@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.5.4",
+          "buildVersion": "54",
+          "date": "2026-11-04",
+          "localizedDescription": "Paste sends text and images from iPhone directly to Playd on Windows over the same Wi-Fi and confirms delivery. Clipboard results appear in a small top toast without a Done button. Windows fixes JPEG transfers, retries brief clipboard locks, and includes the animated bottom toast. Update both apps.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.5.4/Playd.ipa",
+          "size": 9164249
+        },
+        {
           "version": "3.5.2",
           "date": "2026-11-04",
           "localizedDescription": "Hiding Playd on Windows releases the decoded covers, so the tray uses much less memory. The account clipboard is read only when you Copy or Paste, including from Control Center. Edition titles such as Redux and Next-Gen match the base game, and the hero and banner open from the art. Update the Windows companion too.",
