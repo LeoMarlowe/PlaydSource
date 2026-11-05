@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.5.6",
+          "buildVersion": "56",
+          "date": "2026-11-05",
+          "localizedDescription": "Windows imports Steam playtime and unlocked achievements automatically from the local Steam client. PC Remote confirms shutdown and hibernate requests before powering off, fetches automatic relay credentials when away from home, and redesigns the Android remote layout. iPhone adds dedicated Control Center controls for Copy, Paste, Turn On, Shut Down, and Hibernate PC.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.5.6/Playd.ipa",
+          "size": 9188237
+        },
+        {
           "version": "3.5.5",
           "buildVersion": "55",
           "date": "2026-11-04",
