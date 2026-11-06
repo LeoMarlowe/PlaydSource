@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.5.8",
+          "buildVersion": "58",
+          "date": "2026-11-06",
+          "localizedDescription": "PC Remote now encrypts LAN connections and verifies the PC certificate during pairing. New account devices require approval on the PC. Approval, reconnect and session takeover handling are more reliable. Windows adds active-viewer controls, session history and safer update cleanup. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.5.8/Playd.ipa",
+          "size": 9200265
+        },
+        {
           "version": "3.5.6",
           "buildVersion": "56",
           "date": "2026-11-05",
