@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.0",
+          "buildVersion": "60",
+          "date": "2026-11-07",
+          "localizedDescription": "PC Remote now connects reliably from iPhone and Android. The Windows companion starts the secure remote data channel itself when the phone owns the session, fixing the loop where the app stayed on Approved. Connecting... and then disconnected. Update the Windows companion on the PC you connect to.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.0/Playd.ipa",
+          "size": 9207894
+        },
+        {
           "version": "3.5.9",
           "buildVersion": "59",
           "date": "2026-11-07",
