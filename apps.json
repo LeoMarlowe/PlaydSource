@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.1",
+          "buildVersion": "61",
+          "date": "2026-11-07",
+          "localizedDescription": "Fixes away-from-home PC Remote connections that stayed on Approved, connecting... for about a minute before failing and retrying. iPhone and Android request TURN relay credentials on the first attempt and bound cellular/IPv6 ICE gathering once a relay candidate is ready, while Windows falls back across TURN transports, refreshes cached TURN credentials on failure, and confirms the control channel before marking a session connected. Update the Windows companion on your PC too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.1/Playd.ipa",
+          "size": 9211170
+        },
+        {
           "version": "3.6.0",
           "buildVersion": "60",
           "date": "2026-11-07",
