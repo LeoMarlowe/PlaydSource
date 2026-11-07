@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.5.9",
+          "buildVersion": "59",
+          "date": "2026-11-07",
+          "localizedDescription": "PC Remote works over your local network without internet using encrypted direct connections and one-time approval on the PC. Approvals, disconnects and revocation are shared across LAN and account connections. Android 3.5.9 is included again as an optimized APK that installs in place. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.5.9/Playd.ipa",
+          "size": 9207873
+        },
+        {
           "version": "3.5.8",
           "buildVersion": "58",
           "date": "2026-11-06",
