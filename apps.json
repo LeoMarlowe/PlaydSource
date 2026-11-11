@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.3",
+          "buildVersion": "63",
+          "date": "2026-11-11",
+          "localizedDescription": "Paste to an open PC was saved to Playd Cloud and never reached Windows. Leaving the iPhone app cleared its connection while Playd was still open, and Windows ignored that cloud clipboard because the phone still looked connected. Paste now finds that PC again and puts the clipboard on Windows. A paste from the last two minutes still arrives if the local connection is missed. Update the Windows companion too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.3/Playd.ipa",
+          "size": 9384013
+        },
+        {
           "version": "3.6.2",
           "buildVersion": "62",
           "date": "2026-11-11",
