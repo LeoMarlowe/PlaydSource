@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.2",
+          "buildVersion": "62",
+          "date": "2026-11-11",
+          "localizedDescription": "Paste now confirms receipt on the PC instead of treating a cloud save as a completed paste. Copy multiple pictures, files, and folders between iPhone and Windows on the same local network. Files are saved to Downloads; on iPhone, find them under Files > On My iPhone > Playd > Downloads. Achievement banners are pure black and rounded, with a gentler reveal and the new achievement sound. iOS power controls can run in the background on the local network. Copy and Paste still open the app so they can use the clipboard. Update the Windows companion on your PC too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.2/Playd.ipa",
+          "size": 9382209
+        },
+        {
           "version": "3.6.1",
           "buildVersion": "61",
           "date": "2026-11-07",
