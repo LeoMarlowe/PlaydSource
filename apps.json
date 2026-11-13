@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.4",
+          "buildVersion": "64",
+          "date": "2026-11-13",
+          "localizedDescription": "Control Center shut down, turn on, and hibernate now run while Playd is in the background. Copy and Paste still open Playd, because iOS only lets an app read the clipboard when it is open. A game merged from your PC keeps its cloud identity.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.4/Playd.ipa",
+          "size": 9421517
+        },
+        {
           "version": "3.6.3",
           "buildVersion": "63",
           "date": "2026-11-11",
