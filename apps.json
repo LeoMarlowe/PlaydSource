@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.5",
+          "buildVersion": "65",
+          "date": "2026-11-16",
+          "localizedDescription": "Achievement banners now use the Nyx pixel nebula from T3, recoloured to match each game's cover, with the trophy ring in the game's own accent. Turn on the Nyx theme in Settings to put it behind the whole app. The Achievements screens and the Library summary are redesigned. Control Center power, Paste and PC Remote now find your PC again when your router gives it a new address, instead of doing nothing or saving to Playd Cloud. On your home Wi-Fi, a phone connects to the PC without an approval prompt. Update Playd on your PC too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.5/Playd.ipa",
+          "size": 9525471
+        },
+        {
           "version": "3.6.4",
           "buildVersion": "64",
           "date": "2026-11-13",
