@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.7",
+          "buildVersion": "67",
+          "date": "2026-11-17",
+          "localizedDescription": "Covers saved with older image links now show in library rows, Discover and Now Playing, and marking a game you already own as Completed from Add Game records the completion date; Undo clears it. Playd for Windows fixes a rare freeze while artwork loads. Also a large under-the-hood cleanup across all three apps.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.7/Playd.ipa",
+          "size": 9614963
+        },
+        {
           "version": "3.6.6",
           "buildVersion": "66",
           "date": "2026-11-17",
