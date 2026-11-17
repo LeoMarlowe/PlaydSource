@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.6",
+          "buildVersion": "66",
+          "date": "2026-11-17",
+          "localizedDescription": "PC Remote finds your PC on home Wi-Fi first, reconnects faster, and adds Restart, Sleep and Lock. Nyx adds colour choices and a visibility slider; Cream light mode is available on all three apps. Undo shelf deletions, remember sort choices, rename and delete lists, and add or edit playtime by hand. Playd Cloud adds Forgot password and Delete account, and links Google sign-in to your existing account. Library shows PC and cloud sync status, Discover and search mark games you already own, and the iPhone game page can launch games on your PC. Windows fixes Start with Windows and finds covers for more installed games. Update Playd on your PC too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.6/Playd.ipa",
+          "size": 9636053
+        },
+        {
           "version": "3.6.5",
           "buildVersion": "65",
           "date": "2026-11-16",
