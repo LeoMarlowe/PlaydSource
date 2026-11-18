@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.8",
+          "buildVersion": "68",
+          "date": "2026-11-18",
+          "localizedDescription": "PC Remote no longer drops out of Wi-Fi screen streaming while you use the touchpad, keeps the picture from falling behind, and no longer gets stuck on the loading spinner after reconnecting. Away from home, it reconnects when the picture stops and falls back to the relay more reliably. Playd for Windows shows achievement banners on the monitor you're playing on. Update Playd on your PC too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.8/Playd.ipa",
+          "size": 9616817
+        },
+        {
           "version": "3.6.7",
           "buildVersion": "67",
           "date": "2026-11-17",
