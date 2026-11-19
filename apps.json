@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.6.9",
+          "buildVersion": "69",
+          "date": "2026-11-19",
+          "localizedDescription": "Sign in with PlayStation in Settings to add the games you played on PS4 and PS5, with playtime, finished games and trophies, across more than one account. Discover adds a For You row picked from your ratings and the games you finished, dropped and are playing. A game's start date is now the day it went into Playing and stays put if you replay it. Fixed the wrong box art and Steam reviews on some games, including Grand Theft Auto VI, and Metacritic scores now appear on release day. Launch on PC only appears for games installed on your PC, PC Remote power buttons act on the first tap, and the assistant opens to four quick prompts. Update Playd on your PC too.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.6.9/Playd.ipa",
+          "size": 9780850
+        },
+        {
           "version": "3.6.8",
           "buildVersion": "68",
           "date": "2026-11-18",
