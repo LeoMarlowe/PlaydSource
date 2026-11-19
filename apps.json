@@ -22,7 +22,7 @@
         {
           "version": "3.7.0",
           "buildVersion": "70",
-          "date": "2026-11-20",
+          "date": "2026-11-19T22:56:09Z",
           "localizedDescription": "PlayStation sign-in no longer fails with an HTTP 400 when linking an account in Settings. Discover groups duplicate listings, ports, remasters and editions, and For You skips games already in your library along with bundles and add-ons.",
           "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.7.0/Playd.ipa",
           "size": 9785664
