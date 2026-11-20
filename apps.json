@@ -20,6 +20,14 @@
       },
       "versions": [
         {
+          "version": "3.7.1",
+          "buildVersion": "71",
+          "date": "2026-11-20T22:38:34Z",
+          "localizedDescription": "For You ranks standalone games using your library and ratings, and skips DLC, bundles, and alternate editions of games you already own. The recommendation reason now sits directly below the year and score. You can enter playtime above 999 hours.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/v3.7.1/Playd.ipa",
+          "size": 9774620
+        },
+        {
           "version": "3.7.0",
           "buildVersion": "70",
           "date": "2026-11-19T22:56:09Z",

@@ -21,24 +21,10 @@ This is a SideStore source for the Playd game tracker app.
 
 ## For Developers: How to Update
 
-### After each Codemagic build:
-
-1. Download the IPA from Codemagic
-
-2. Upload to GitHub Releases:
-   - Go to https://github.com/LeoMarlowe/PlaydSource/releases
-   - Create new release with tag `v1.4.x`
-   - Upload `Playd.ipa` and `Playd.exe` on that same release, plus `Playd-<version>.sha256` for the exe
-
-3. Update `apps.json`:
-   - Update `version` and `buildVersion`
-   - Update `date` to today
-   - Update `localizedDescription` with changelog
-   - Update `downloadURL` to new release URL
-
-4. Commit and push
-
-Users will see the update in AltStore automatically!
+1. Collect the validated iOS IPA from Bitrise and the signed Android APK and packaged Windows executable from their release builds.
+2. Publish `Playd.ipa`, `Playd.apk`, and `Playd.exe` together in the `v<version>` GitHub release. Mark it latest so the Windows updater picks it up.
+3. Add the iOS release at the top of `apps[0].versions` in `apps.json`. Use the IPA's `version`, `buildVersion`, and byte `size`, GitHub's UTC `publishedAt` for `date`, the versioned IPA URL for `downloadURL`, and the iOS notes for `localizedDescription`.
+4. Push the feed update to `main` after the release assets are public. SideStore reads the feed from that branch.
 
 ## Files in this repo
 
