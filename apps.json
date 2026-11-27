@@ -464,6 +464,37 @@
           "size": 1000000
         }
       ]
+    },
+    {
+      "name": "Money",
+      "bundleIdentifier": "com.leomarlowe.money",
+      "developerName": "Arasaka",
+      "subtitle": "Track spending across your accounts",
+      "localizedDescription": "Money is a private finance tracker for Egypt. Track bank transactions from Shortcuts, review spending and subscriptions, and back up your ledger with end-to-end encryption and Google Sign-In.",
+      "iconURL": "https://raw.githubusercontent.com/LeoMarlowe/PlaydSource/main/money-icon.png",
+      "tintColor": "#C9A96E",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Money uses the camera to scan the pairing code shown by Money Desktop.",
+          "NSFaceIDUsageDescription": "Money uses Face ID to keep your finances private.",
+          "NSLocalNetworkUsageDescription": "Money syncs with Money Desktop on your Wi-Fi so you can review and fix transactions on your PC."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-27T10:12:32Z",
+          "localizedDescription": "First iPhone release, with Google Sign-In and encrypted Firebase backup.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/money-v1.0.0/Money.ipa",
+          "size": 3696746,
+          "minOSVersion": "27.0"
+        }
+      ]
     }
   ],
   "news": []
