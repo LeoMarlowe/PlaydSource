@@ -470,7 +470,7 @@
       "bundleIdentifier": "com.leomarlowe.money",
       "developerName": "Arasaka",
       "subtitle": "Track spending across your accounts",
-      "localizedDescription": "Money is a private finance tracker for Egypt. Track bank transactions from Shortcuts, review spending and subscriptions, and back up your ledger with end-to-end encryption and Google Sign-In.",
+      "localizedDescription": "Money is a private finance tracker for Egypt. Track bank transactions from Shortcuts, ask an AI assistant about your spending, review subscriptions, and back up your ledger with end-to-end encryption using a passkey or Google Sign-In. Pairs with Money Desktop for Windows.",
       "iconURL": "https://raw.githubusercontent.com/LeoMarlowe/PlaydSource/main/money-icon.png",
       "tintColor": "#C9A96E",
       "category": "utilities",
@@ -485,6 +485,15 @@
         }
       },
       "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "1",
+          "date": "2026-11-27T19:26:54Z",
+          "localizedDescription": "Ask is now an assistant that looks things up across your ledger and proposes changes you confirm. Backups are end-to-end encrypted with a passkey, and you can sign in with a passkey or Google. One automation catches every bank text, exchange rates and backups run automatically, there's a Subscriptions tab and logos for every Egyptian bank.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/money-v1.0.1/Money.ipa",
+          "size": 3953681,
+          "minOSVersion": "27.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "1",
