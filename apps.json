@@ -486,6 +486,15 @@
       },
       "versions": [
         {
+          "version": "1.0.2",
+          "buildVersion": "1",
+          "date": "2026-11-27T23:35:34Z",
+          "localizedDescription": "Bank shortcuts no longer ask you to type the message, account numbers match alongside cards, passkey backups work, opening an account from Settings no longer loops, statement import reads CSVs and money in versus out, a Thinking setting for your AI provider, and a calmer look with brand logos.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/money-v1.0.2/Money.ipa",
+          "size": 3982711,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.0.1",
           "buildVersion": "1",
           "date": "2026-11-27T19:26:54Z",
