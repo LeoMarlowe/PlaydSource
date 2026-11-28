@@ -486,6 +486,15 @@
       },
       "versions": [
         {
+          "version": "1.0.4",
+          "buildVersion": "1",
+          "date": "2026-11-28T00:52:47Z",
+          "localizedDescription": "Track Bank SMS and Track Bank Notification each take one text input. Money skips empty runs silently and sends no routine shortcut notification.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/money-v1.0.4/Money.ipa",
+          "size": 3980510,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.0.3",
           "buildVersion": "1",
           "date": "2026-11-28T00:23:28Z",
