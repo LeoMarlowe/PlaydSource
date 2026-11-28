@@ -486,6 +486,15 @@
       },
       "versions": [
         {
+          "version": "1.0.5",
+          "buildVersion": "1",
+          "date": "2026-11-28T06:36:50Z",
+          "localizedDescription": "Statement imports read bank CSV, Excel and .xls exports and match your bank balance. Transfers between your own accounts are no longer counted as spending, even with InstaPay fees. New Transfers and Money sent categories, a one-tap bank SMS shortcut, and dismissible balance warnings.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/money-v1.0.5/Money.ipa",
+          "size": 4185272,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.0.4",
           "buildVersion": "1",
           "date": "2026-11-28T00:52:47Z",
