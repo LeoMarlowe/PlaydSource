@@ -486,6 +486,15 @@
       },
       "versions": [
         {
+          "version": "1.0.3",
+          "buildVersion": "1",
+          "date": "2026-11-28T00:23:28Z",
+          "localizedDescription": "InstaPay is no longer treated as an account: its payments land on the bank they came from. Home, Insights, Subscriptions and Net worth read like a statement, in plain sentences, and gold and charts are flat.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/money-v1.0.3/Money.ipa",
+          "size": 3979288,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.0.2",
           "buildVersion": "1",
           "date": "2026-11-27T23:35:34Z",
