@@ -486,6 +486,15 @@
       },
       "versions": [
         {
+          "version": "1.0.6",
+          "buildVersion": "1",
+          "date": "2026-11-28T12:10:52Z",
+          "localizedDescription": "Mark money sent to a person as a purchase or as cash. Subscriptions fill in their next renewal, forms fill themselves in, and long lists and the subscription editor are faster. People no longer show up as favourite places, and Money asks before deleting in bulk.",
+          "downloadURL": "https://github.com/LeoMarlowe/PlaydSource/releases/download/money-v1.0.6/Money.ipa",
+          "size": 4214368,
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "1.0.5",
           "buildVersion": "1",
           "date": "2026-11-28T06:36:50Z",
